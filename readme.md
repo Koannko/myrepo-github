@@ -1,1 +1,1 @@
-myrepo-gui
+Hi, pidor!
